@@ -1,0 +1,406 @@
+
+/*Ipad*/
+@media only screen and (max-width: 1024px){
+    
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(49%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 24px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 800px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 460px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 450px;
+        transform: translateX(8%);
+    }
+    
+    
+}
+
+/*Iphone x in side way*/
+@media only screen
+and (max-width : 812px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(47%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 24px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 650px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 345px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 325px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+
+ 
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (max-width : 768px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(47%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 24px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 650px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 345px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 325px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+
+/*iPhone 6,7,8 (side-way)*/
+@media only screen
+and (max-width : 667px){
+     h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(47%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 550px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 300px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 290px;
+        transform: translateX(8%);
+    }
+    
+}
+
+/*nexus 4 and nexus 5 side way*/
+@media only screen
+and (max-width : 667px){
+     h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(47%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 550px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 300px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 290px;
+        transform: translateX(8%);
+    }
+    
+}
+
+
+
+
+
+
+
+/*iPhone 5 (portrait &amp; landscape)*/
+@media only screen
+and (max-width : 568px){
+     h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 500px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 250px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 250px;
+        transform: translateX(8%);
+    }
+    
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+/*Smartphones (portrait and landscape) ----------- */
+/**/
+
+@media only screen and (max-width : 480px){
+    
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 400px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 400px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 400px;
+        transform: translateX(8%);
+    }
+    
+}
+
+
+/*Nexus 4*/
+@media only screen
+and (max-width : 384px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 300px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 300px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 300px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+/*Iphone x,iphone6,7,8*/
+@media only screen
+and (max-width : 375px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 300px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 300px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 300px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+/*small phones like nexus 5*/
+@media only screen
+and (max-width : 360px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 300px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 300px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 300px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+
+/*SMall phones like nexus(the one I have) and ihpone*/
+@media only screen
+and (max-width : 320px){
+
+    h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        transform: translateX(40%);
+        margin-bottom: 15px;
+    }
+    h3{
+        font-size: 18px;
+        text-align: center;
+        margin-bottom:15px;
+    }
+    input[type=submit] {
+        width: 250px; 
+        transform: translateX(10%);
+    }
+    .relocate{margin-top: -55px;}
+    
+    .form .email{
+    width: 275px;
+    transform: translateX(8%);
+    }
+    .form select{
+        width: 275px;
+        transform: translateX(8%);
+    }
+}
+
+
+
+ 
+
+ 
+
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Shopify Challenge</title>
+        
+        
+        
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="css/grid.css">
+        <link rel="stylesheet" type="text/css" href="Css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/queries.css">
+        
+    
+        
+    </head>
+    <body >
+        <header>
+        <div class=" row">
+            <div class="col span-2-of-2 headline">
+        <h1>Stay up to date with ecommerce trends with Shopify's newsletter</h1>
+            <h2></h2>
+            </div>
+            
+        <!--This is just the Dash(horzintal line under the headline, which I just styled in css-->    
+        
+        <div class ="col span-2-of-2">   
+        <h3>Subscribe for free marketing tips</h3>    
+        </div> 
+        <form class="form" name="myForm" action="#"   onsubmit="return validateForm(event)" id="myForm">
+            
+            <div class="col span-1-of-2">
+            <input type="email" name="email" id="email"  placeholder="Email Address" class="email">
+            <div ><p id ="email-error" class="email-error"></p></div>
+            </div>
+            
+            
+            <div class="col span-1-of-2 selectdiv">
+                
+            <select name="interest-in" id="option" >
+                            
+                           <option value="" hidden >Interested in....</option> 
+                           <option value="Front-end Develoment" >Front-end Develoment</option>  
+                           <option value="Back-end Develoment" >Back-end Develoment</option>  
+                           <option value="Software Develoment">Software Develoment</option> 
+                           <option value="Mobile Develoment "  >Mobile Develoment</option> 
+                               
+                           </select>
+                </div>
+           
+            <input type="submit" value="Sign up now" class="btn-submit">
+                
+                </form>    
+            <div class="col span-2-of-2 relocate">
+            <a href="#" class="unsub"><p>Unsubscribe</p></a>
+            </div>
+             
+            </div>
+        </header>
+    </body>
+    <script src="Js/javascript.js"></script>
+</html>
